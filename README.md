@@ -12,3 +12,5 @@
     --output json \
     --out snapshot.json
     ```
+4. Update the `src/test.rs` file with your 2 G addresses.
+5. Run the test!
